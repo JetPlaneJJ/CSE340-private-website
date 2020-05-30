@@ -9,7 +9,7 @@
 title:       CSE340 Interaction Programming Notes
 email:       'jial8@uw.edu'
 description: 'by Jay Lin'
-baseurl:     'https://jetplanejj.github.io/CSE340-private-website/' # The subpath of your site, e.g. /blog
+baseurl:     '/CSE340-private-website' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/explore'
 github:      'https://github.com/JetPlaneJJ/CSE340-Notes-MasterList'
@@ -18,7 +18,7 @@ facebook:    'https://www.facebook.com/jiajiabunny/'
 
 markdown:  kramdown
 permalink: pretty
-paginate:  10
+paginate:  5
 
 kramdown:  
   parse_block_html: true

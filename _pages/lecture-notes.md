@@ -5,10 +5,10 @@ image: '/images/pages/note-taking.jpeg'
 ---
 
 ## Part 1: Views & Layouts, Accessibility, Models
-1. [Visual Perception](/lecture/1-15-visual-perception.pdf)
-2. [Layout HW Intro](/lecture/1-17-Intro-to-Layout.pdf)
-3. [Layout in Android](/lecture/1-22-Layout-in-Android.pdf)
-4. [Tracy Tran Microsoft Accessibility Lecture](/lecture/1-24-Tracy-Tran-Microsoft-Lecture.pdf)
+1. [Visual Perception](CSE340-private-website/lecture/1-15-visual-perception.pdf)
+2. [Layout HW Intro](CSE340-private-website/lecture/1-17-Intro-to-Layout.pdf)
+3. [Layout in Android](CSE340-private-website/lecture/1-22-Layout-in-Android.pdf)
+4. [Tracy Tran Microsoft Accessibility Lecture](CSE340-private-website/lecture/1-24-Tracy-Tran-Microsoft-Lecture.pdf)
 5. [Screenreaders](/lecture/1-27-Screenreaders.pdf)
 6. [Model View Controllers](/lecture/1-29-MVC.pdf)
 7. [Lecture by Sophie Tian: Accessibility in Tech](/lecture/1-29-MVC.pdf)
