@@ -8,7 +8,7 @@ image: '/images/pages/post-it-paper-business-memos.jpg'
 
 [Common Student Pitfalls](https://jetplanejj.github.io/CSE340-private-website/MajorTopics/common-pitfalls.txt)
 
-[Design Tips]({% post_url 2020-05-01-design-tips %})
+[Design Tips](https://jetplanejj.github.io/CSE340-private-website/2020/05/01/design-tips)
 
 [Event Dispatch](https://jetplanejj.github.io/CSE340-private-website/MajorTopics/dispatch.pdf)
 

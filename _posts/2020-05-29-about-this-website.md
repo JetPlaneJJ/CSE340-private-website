@@ -12,5 +12,5 @@ This is a Masterlist of notes from Winter 2020, likely applicable to future quar
 - Only use this website as a reference/study guide for tests. Please continue to take notes in class and section :)
 - Feel free to contribute through pull requests if you have suggestions! :^D New meme suggestions are also welcome in the Meme folder/page. Will use these as comments when grading assignments as a TA.
 
-> Overall Site Content last updated: May 29, 2020 (Spring Quarter)
+> This page was last updated on: May 29, 2020 (Spring Quarter)
 

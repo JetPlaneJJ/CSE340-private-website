@@ -31,8 +31,9 @@ _________________
 
 ## Part 3: Machine Learning, Security, HTML & CSS and other Cool Dev Tech
 18. [Lecture by Jen Mankoff: Mobile Machine Learning](https://jetplanejj.github.io/CSE340-private-website/lecture/3-4-ML.pdf)
-19. [Lecture by Franziska Roesner: Secure Android App Development]({% post_url 2020-03-06-Secure-AndroidApp-Dev %})
-20. [HTML and CSS]({% post_url 2020-03-09-HTML-CSS %})
+19. [Lecture by Franziska Roesner: Secure Android App Development](https://jetplanejj.github.io/CSE340-private-website/2020/03/06/Secure-AndroidApp-Dev/)
+20. [HTML and CSS](https://jetplanejj.github.io/CSE340-private-website/2020-03-09-HTML-CSS)
+21. [Lecture by Andrew Fitts: Flutter](https://jetplanejj.github.io/CSE340-private-website/lecture/6-01-Flutter.pdf)
 
 
-> Overall Page Content last updated: May 29, 2020 (Spring Quarter)
+> Overall Page Content last updated: June 01, 2020 (Spring Quarter)
